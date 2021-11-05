@@ -6,4 +6,4 @@ Blog post:
 
 DE: https://www.amalytix.com/blog/brand-analytics-keyword-ideen/
 
-EN: https://www.amalytix.com/en/blog/brand-analytics-keyword-ideas/
+EN: https://www.amalytix.com/en/blog/brand-analytics-keyword-suggestions-with-python/
